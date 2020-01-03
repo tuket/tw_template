@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <SDL.h>
 #include <glad/glad.h>
 #include <tgl/init.hpp>
